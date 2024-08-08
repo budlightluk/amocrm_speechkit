@@ -6,3 +6,6 @@
 
 Скачайте файл и откройте его в Jupiter Notebook. Заполните необходимые поля своими API ключами
 
+##
+
+Автор: Danila Ladygin budlighterluk@gmail.com tg @SkyWalker_OG
